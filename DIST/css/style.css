@@ -52,7 +52,7 @@ section#taekwondo {
 section#contact a:hover {
   color: #143f85;
 }
-.gift-cards {
+.project-cards {
   display: grid;
   grid-gap: 20px;
   grid-template-columns: repeat(2, 1fr);
