@@ -334,7 +334,7 @@ nav a#openup {
 }
 
 @media screen and (max-width: 780px) {
-  .gift-cards {
+  .project-cards {
     grid-template-columns: 1fr;
   }
 
@@ -349,8 +349,15 @@ nav a#openup {
   }
   
 }
+@media screen and (max-width: 580px) 
+{
+  .fixed-social-media{
+    display:none;
+  }
+}
 @media screen and (max-height: 580px) {
   .showcase p.lead {
     display: none;
   }
+
 }
